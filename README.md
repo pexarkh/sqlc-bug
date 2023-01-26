@@ -43,3 +43,7 @@ type UidRangeWrongParams struct {
 ```sh
 cd database && sqlc generate
 ```
+
+# bug location
+
+submitted as https://github.com/kyleconroy/sqlc/issues/2032
